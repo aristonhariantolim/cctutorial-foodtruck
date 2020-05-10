@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39216f3a-7bfe-4c30-8502-936d2398ed22" name="Default Changelist" comment="added files.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cctutorial-foodtruck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws-ecs/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/build/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/build/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/icons/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/src/components/Intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/src/components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/src/components/Vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/static/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-app/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup-aws-ecs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup-docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/generate_geojson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/trucks.geojson" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bjL66g343wLU7pZ0qRP9oodPZI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39216f3a-7bfe-4c30-8502-936d2398ed22" name="Default Changelist" comment="" />
+      <created>1589140377972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589140377972</updated>
+      <workItem from="1589140417593" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files." />
+    <option name="LAST_COMMIT_MESSAGE" value="added files." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="9" key="CommitChangelistDialog2" timestamp="1589140651490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589140651490" />
+  </component>
+</project>
